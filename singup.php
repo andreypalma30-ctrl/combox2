@@ -1,6 +1,6 @@
 <?php
 
-require('../config/database.php');
+require('config/database.php');
     //Get dat from html form
     $f_name =  $_POST ['Fname'];
     $l_name =  $_POST ['Lname'];
